@@ -2,12 +2,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: 'alist分享',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'ur2296867-1ec7f496499b5720cbc56ac3',
   ],
 
     // 日志天数
@@ -21,16 +21,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://tjys.tk'
+      text: 'alist主页',
+      url: 'https://alist.0031.store/'
     },
     {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'http://fblog.anxidtea.cn/'
     },
   ],
 };
